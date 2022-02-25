@@ -1,0 +1,1382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order and ceremonies used for, and at the solemn interment of the most high, mighty and most noble Prince George, Duke of Albemarle ... A[nn]o 1670 collected by Francis Sandford ... ; and published by His Ma[jes]ties especiall command.</title>
+            <author>Sandford, Francis, 1630-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62152</idno>
+            <idno type="STC">Wing S653</idno>
+            <idno type="STC">ESTC R5597</idno>
+            <idno type="EEBO-CITATION">12378747</idno>
+            <idno type="OCLC">ocm 12378747</idno>
+            <idno type="VID">60662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 226:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order and ceremonies used for, and at the solemn interment of the most high, mighty and most noble Prince George, Duke of Albemarle ... A[nn]o 1670 collected by Francis Sandford ... ; and published by His Ma[jes]ties especiall command.</title>
+                  <author>Sandford, Francis, 1630-1694.</author>
+                  <author>Barlow, Francis, 1626?-1702.</author>
+                  <author>White, Robert, 1645-1703.</author>
+               </titleStmt>
+               <extent>[7] p., [21] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved t.p., mounted.</note>
+                  <note>Place and date of publication from BM.</note>
+                  <note>Title page design by Francis Barlow; plates engraved by Robert White.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60662:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <p>The Order and Ceremonies Vſed for, and at THE SOLEMN INTERMENT OF The most High, Mighty and most Noble Prince GEORGE DUKE OF ALBEMARLE Earle of Torrington, Baron Monck of Potheridge, Beauchampe and Teyes, Captaine General of his Ma<hi rend="sup">ties</hi>: Forces, Gentleman of his Ma<hi rend="sup">ties</hi>: Bedchamber, one of the Lords of his Ma<hi rend="sup">ties</hi>: most Honorable Privy Council, and Knight of the most Noble Order of the Garter A.<hi rend="sup">o</hi>. 1670</p>
+                  <p>Collected by Francis Sandford Gent Rouge-Dragon, one of His Ma<hi rend="sup">ties</hi>: Officers at Armes; and Published by His Ma<hi rend="sup">ties</hi>: especiall Command.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60662:2"/>
+            <head>The Order and Ceremonies uſed for the Solemn Interment of the Moſt High, Mighty, and Moſt Noble Prince, <hi>GEORGE</hi> late Duke of <hi>Albemarle,</hi> Earl of <hi>Torrington,</hi> Baron <hi>Monck</hi> of <hi>Poutheridge, Beauchampe,</hi> and <hi>Teyes,</hi> Captain General of His Majeſties Forces, Gentleman of His Majeſties Bedchamber, One of the Lords of His Majeſties moſt Honorable Privy Council, and Knight of the Moſt Noble Order of the Garter, in the Year of our Lord 1670.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the Third day of <hi>January, An.</hi> 1669. His Grace <hi>GEORGE</hi> Duke of <hi>Albemarle,</hi> departed this Mortal Life, at his Lodgings in the <hi>Cockpit,</hi> at <hi>Whitehal;</hi> and the ſame day Mr. <hi>Williamſon</hi> (by command from the Lord <hi>Arlington,</hi> Principal Secretary of State) wrote to Sir <hi>Edward Walker</hi> Knight, Garter, Principal King of Arms, ſignify<g ref="char:EOLhyphen"/>ing, That His Majeſty was reſolved to pay all the Honors and Reſpects imaginable, to the memory of the Lord General deceaſed; and that He had commanded ſome of the Lords of the Coun<g ref="char:EOLhyphen"/>cil, to conſider of fitting Solemnities for his Funeral; and to that end, That he ſhould prepare what he thought fit to offer to His Majeſty, and their Lordſhips. Whereupon Maſter Garter, with ſome of the Officers of Arms, attended His Majeſty in the <hi>Council-Chamber,</hi> on the Eighth day of <hi>January</hi> following, where was preſent
+<list>
+                  <item>HIS MAJESTY.</item>
+                  <item>His Royal Highneſs.</item>
+                  <item>The Lord Steward.</item>
+                  <item>The Lord Chamberlain.</item>
+                  <item>The Earl of <hi>Sandwich.</hi>
+                  </item>
+                  <item>The Earl of <hi>Carliſle.</hi>
+                  </item>
+                  <item>The Earl of <hi>Craven.</hi>
+                  </item>
+                  <item>The Lord <hi>Arlington.</hi>
+                  </item>
+                  <item>The Lord <hi>Aſhley.</hi>
+                  </item>
+                  <item>Mr. Secretary <hi>Trevor.</hi>
+                  </item>
+                  <item>Sir <hi>John Duncomb.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There they preſented to His Majeſty ſeveral Preſidents, one whereof His Majeſty having approved and made choice of to be followed, Did then give directions in ſeveral particulars, relating to the Rooms, to be prepared at <hi>Sommerſet-Houſe,</hi> where the Body was to Lye in State for ſome time.</p>
+            <p>After this, the Lord Chamberlain directed ſeveral Warrants to the Earl of <hi>Sandwich.</hi> Maſter of the <hi>Great Wardrobe,</hi> for the furniſhing Three Rooms at <hi>Sommerſet-Houſe;</hi> for the placing the Effigies there in State; for the covering and adorning the Herſe at <hi>Weſtminſter;</hi> for Eſcucheons, Shields, Banners, Bannarols, <hi>&amp;c.</hi> All which were to be delivered to Mr. Garter, or to ſuch perſons as he ſhould appoint.</p>
+            <p>The Duke of <hi>Buckingham,</hi> Maſter of the Horſe, did alſo ſend a Warrant to the Earl of <hi>Sandwich,</hi> for providing and furniſhing a Chariot, and for coverings of Black Velvet for the Chariot and Horſes, <hi>&amp;c.</hi>
+            </p>
+            <p>Another Warrant was ſent by the Lord Chamberlain to Dr. <hi>Wren,</hi> Surveyor of the Works, to prepare a Frame of Timber; for a Herſe to be ſet up in <hi>Weſtminſter.</hi>
+            </p>
+            <p>As alſo a Warrant to the Earl of <hi>Sandwich,</hi> to provide Gowns and Hoods, and other Mourning, for the Lords, Gentry, and other Perſons, who were to officiate at the ſaid Funeral.</p>
+            <div type="part">
+               <head>The Three Rooms at <hi>Sommerſet-Houſe</hi> were furniſhed in manner following;</head>
+               <p>THe Firſt Room was hung with Bays from top to bottom, adorned with Eſcucheons, and furniſhed with Sconces, and Wax-Candles unlighted; and Formes placed about it, covered with Bays.</p>
+               <p>The Second was hung with Cloath, adorned with Eſcucheons, and furniſhed with Sconces and Candles, unlighted, the Forms about it co<g ref="char:EOLhyphen"/>vered with Cloath; at the upper end, a Haute-paſs floored with Bays, a Canopy of Black Velvet, the Vallance Fringed, the Pendant within half a yard of the Ground; a Majeſty-Eſcucheon of Taffata, a Black Velvet Chair with Arms, and a Footſtool.</p>
+               <p>The Third Room was hung with Velvet, floored with Bays, adorned with Eſcucheons, and Black Sconces, with White Wax Tapers, and at the upper end upon a Haute-paſs, a Bed of State of Black Velvet was placed with Black Plumes at the Four corners of the Teſter; at the Head a Majeſty-Eſcucheon, and another in the midſt of the Teſter. Upon the Bed was placed a Coffin covered with a fine <hi>Holland</hi> ſheet of Eight bredths, and Eight ells long, and over that, a Pall of Black Velvet of Eight bredths, and Eight yards long, and thereupon the Effigies of the Duke in a Buff-coat, and over that compleat Azure Armor with Guilt Nails, a Cravat about his Neck; his Ducal Coronet and Cap turned up with Ermine on his Head, Inveſted in his Ducal Robe of Crimſon Velvet, about his Neck a Coller of the Order and <hi>George,</hi> under the Head a Cuſhion of Crimſon Velvet, with Fringe and Taſſels of Gold, his Sword guirt about him, and a great Crimſon Taſſata-Scarff, fringed with Gold about his Waſte, upon his Left Leg a Garter of Blew Velvet, the Buckles and Letters of Gold, and a Guilt Truncheon in his right hand.</p>
+               <p>About Five foot diſtant from the Bed, was a Rail covered with Black Velvet, and cloſe to the inſide of the Rail, were placed on both ſides, the Bannerols, three Banners, and a Guydon, and at the Foot, the Standard, and Great Banner; between theſe on the ſides, were alſo placed Twelve Black Stands, with as many Silver Candleſticks, with large White Wax Tapers in them.</p>
+               <p>At the Bed's Feet, was a little Table covered with a Carpet of Black Velvet, and thereupon were placed the Coat of Arms, Sword, Target, Helm, and Creſt, Gantlets, and Spurs. Between the Standard and the great Banner, hung a Cryſtal Branch with Twelve Sockets, and therein as many Tapers of Wax.</p>
+               <p>In this Room (the proſpect of which, I have exhibited to your view in Sculpture, in the Folio following) the Tapers were continually burning when it was expoſed to ſight, which was every day (except Sunday) during the ſpace of about three weeks. During which time, Forty Gentle<g ref="char:EOLhyphen"/>men in ſhort Mourning, all which (except five) had been Officers, gave their attendance alternately, Twenty upon a day; Four of which, waited in the Firſt Room, Six in the Second Room, and Ten. In this third Room where the Effigies lay in State, Five on one ſide of the Rail of the Bed of State, and Five on the other, with their backs cloſe to the Wall, their Names and Offices were as followeth.</p>
+               <list>
+                  <item>1 Sir <hi>Thomas Preſtwich</hi> Baronet.</item>
+                  <item>2 Sir <hi>John Pawlet</hi> Knight.</item>
+                  <item>3 Col. <hi>Richard Wiltſhire.</hi>
+                  </item>
+                  <item>4 Col. <hi>Walter Slingsby.</hi>
+                  </item>
+                  <item>5 Col. <hi>William Chamberlain.</hi>
+                  </item>
+                  <item>6 Col. <hi>William Hawley.</hi>
+                  </item>
+                  <item>7 Col. <hi>Henry Crow.</hi>
+                  </item>
+                  <item>8 Col. <hi>Creſsy Dymmock.</hi>
+                  </item>
+                  <item>9 Col. <hi>William Pretty.</hi>
+                  </item>
+                  <item>10 Col. <hi>Degory Collins.</hi>
+                  </item>
+                  <item>11 Col. <hi>Stephen White.</hi>
+                  </item>
+                  <item>12 Col. <hi>Miles Man.</hi>
+                  </item>
+                  <item>13 Lieut. Col. <hi>Urian Leigh.</hi>
+                  </item>
+                  <item>14 Major <hi>John Cogan.</hi>
+                  </item>
+                  <item>15 Major <hi>Adam Roche.</hi>
+                  </item>
+                  <item>16 Capt. <hi>Robert Ferrers.</hi>
+                  </item>
+                  <item>17 Capt. <hi>Francis Creſſet.</hi>
+                  </item>
+                  <item>18 Capt. <hi>Thomas Rawſon.</hi>
+                  </item>
+                  <item>19 Capt. <hi>John Allen.</hi>
+                  </item>
+                  <item>20 Capt. <hi>Humphrey Roſcarrock.</hi>
+                  </item>
+                  <item>21 Capt. <hi>Samuel Acton.</hi>
+                  </item>
+                  <item>22 Capt. <hi>George Bag.</hi>
+                  </item>
+                  <item>23 Capt. <hi>Edwin Babington.</hi>
+                  </item>
+                  <item>24 Capt. <hi>Thomas Fiſher.</hi>
+                  </item>
+                  <item>25 Capt. <hi>Edward Andrew.</hi>
+                  </item>
+                  <item>26 Capt. <hi>John Ruſſel.</hi>
+                  </item>
+                  <item>27 Capt. <hi>Richard Barham.</hi>
+                  </item>
+                  <item>28 Capt. <hi>Thomas Beck.</hi>
+                  </item>
+                  <item>29 Capt. <hi>John Draycot.</hi>
+                  </item>
+                  <item>30 Capt. <hi>Henry Mac Arty.</hi>
+                  </item>
+                  <item>31 Capt. <hi>Thomas Heap.</hi>
+                  </item>
+                  <item>32 Capt. <hi>John Bretton.</hi>
+                  </item>
+                  <item>33 Lieut. <hi>Edward Parry.</hi>
+                  </item>
+                  <item>34 Lieut. <hi>John Hales.</hi>
+                  </item>
+                  <item>35 Enſign <hi>Thomas Lamb.</hi>
+                  </item>
+                  <item>36 Mr. <hi>Samuel Scudamore.</hi>
+                  </item>
+                  <item>37 Mr. <hi>William Perkinſon.</hi>
+                  </item>
+                  <item>38 Mr. <hi>Percival Yarrow.</hi>
+                  </item>
+                  <item>39 Mr. <hi>Edmond Wood.</hi>
+                  </item>
+                  <item>40 Mr. <hi>John Bull.</hi>
+                  </item>
+               </list>
+               <p>Three days before the Solemnity of the Funeral, the Rooms afore<g ref="char:EOLhyphen"/>ſaid, were ſhut up; and the Evening before, the Body which had lain
+<pb facs="tcp:60662:3"/> there, in a private Room, in a Coffin, covered with Black Velvet, with Guilt Nails and Hinges of the ſame, was privately conveyed by Water to <hi>Weſtminſter,</hi> accompanied by the Earls of <hi>Bath</hi> and <hi>Craven,</hi> Sir <hi>James Smith,</hi> and others of his Kinred, and attended by ſeveral of his Graces Domeſticks; where it was Interred by the Biſhop of <hi>Rocheſter,</hi> Dean of <hi>Weſtminſter,</hi> in a Vault in the North Iſle of King <hi>Henry</hi> the Seventh's Chappel, made there by His Majeſties command for that purpoſe.</p>
+               <p>Upon the Coffin was faſtned a Plate of Copper Guilt, and there<g ref="char:EOLhyphen"/>upon Engraven
+<q>Depoſitum Illustriſſimi Principis GEORGII D<g ref="char:V">Ʋ</g>CIS ALBEMARLIAE Comitis Torringtoniae, Baronis Monck de Potheridge, Beauchamp &amp; Teyes, Carolo <hi>2do</hi> Regi Auguſtiſſimo à Sanctioribus Conſiliis, nec non ab intimis Cubiculis, omnium Regis Exercituum Ducis Supremi, Inclyti Ordinis Aureae Periſcelidis Equitis, &amp;c. Obiit Weſtmonaſterii Anno Aetatis <hi>62.</hi> Die <hi>3o</hi> Januarii Anno reparatae ſalutis humanae <hi>M.DC.LXIX.</hi>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Proceeding to the Funeral of his Grace <hi>GEORGE,</hi> late Duke of <hi>Albemarle,</hi> &amp;c. upon Saturday the <hi>30<hi rend="sup">th</hi>
+                  </hi> of <hi>April,</hi> An. <hi>1670.</hi>
+               </head>
+               <p>ABout Eleven of the Clock in the Morning, the Nobility, Gentry, and other Perſons who were to officiate at the Funeral, met at <hi>Sommerſet-houſe</hi> in the <hi>Strand;</hi> between which place, and the Abbey of <hi>Weſtminſter,</hi> the Streets were gravelled, and the Red and Blew Regiments of the Trained Bands of <hi>Middleſex,</hi> commanded by the Earl of <hi>Craven,</hi> were placed on both ſides, who kept the paſſage free from the crouds of the People. The Officers of the ſaid Regiments being fur<g ref="char:EOLhyphen"/>niſhed with Cypreſs Scarffs, and their Drums covered with Black Bays, adorned with Eſcucheons of the Dukes Arms. All things being in a readi<g ref="char:EOLhyphen"/>neſs, about Two of the Clock in the Afternoon, the Funeral then pro<g ref="char:EOLhyphen"/>ceeded in this form following,</p>
+               <p>Firſt marched His Royal Highneſs, the Duke of <hi>York</hi>'s Troop of Guards, commanded by the Right Honorable Monſieur <hi>Blancfort,</hi> the Officers having Mourning Scarffs of Cypreſs, and their Cornet, Trum<g ref="char:EOLhyphen"/>pet-Banners; and Kettle-Drums covered with the ſame.</p>
+               <p>Three Led Horſes.</p>
+               <p>The Marſhal <hi>Richard Llewellin.</hi>
+               </p>
+               <p>The Kettle-Drums.</p>
+               <p>Four Trumpets.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Col. <hi>Rob. Werden</hi> Lieutenant.</cell>
+                        <cell>Sir <hi>John Godolphin</hi> Corner.</cell>
+                        <cell>Monſ. <hi>Blancfort</hi> Captain.</cell>
+                        <cell>Maj. <hi>Rich. Dutton</hi> Lieutenant.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell>Capt. <hi>Nathaniel Layton</hi> Corporal. 1 Squadron.
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                        <cell> Capt. <hi>William Springal</hi> Corporal. 3 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                     </row>
+                     <row>
+                        <cell> Capt. <hi>George Winrame</hi> Corporal. Cornet. 2 Squadron
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                        <cell> Capt. <hi>Ferdinand Stanhop</hi> Corporal. 4 Squadron.
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>Capt. <hi>Geo. Steward</hi> Quarter-Maſter. </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>His Majeſties Troop of Guards marched next after them, command<g ref="char:EOLhyphen"/>ed by His Grace the Duke of <hi>Monmouth,</hi> the Officers in Mourning Scarffs, and the Cornet, Trumpet-Banners, and Kettle-Drums covered as be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Servants to His Grace the Duke of <hi>Monmouth,</hi> leading ſpare Horſes.</p>
+               <p>Four Pages on Horſ-back in Black, with White Feathers in their Hats.</p>
+               <p>Maſter of the Horſe to the Duke of <hi>Monmouth.</hi>
+               </p>
+               <p>The Kettle-Drums.</p>
+               <p>Four Trumpets.</p>
+               <p>The Duke of <hi>Monmouth,</hi> Captain.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Major General <hi>Ran<g ref="char:EOLhyphen"/>dol Egerton.</hi>
+                        </cell>
+                        <cell>Cornet <hi>Will. Stanley.</hi>
+                        </cell>
+                        <cell>Sir <hi>Tho. Sands</hi> Lieutenant.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Major <hi>Richard Bings</hi> Corporal. 1 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH</cell>
+                        <cell>Col. <hi>Francis Berkley</hi> Corporal. Cornet. 3 Squadron.
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                     </row>
+                     <row>
+                        <cell>Major <hi>Samuel Wood</hi> Corporal. 2 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH</cell>
+                        <cell>
+                           <hi>Henry Corbet</hi> Corporal. 4 Squadron.
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>Col. <hi>James Proger</hi> Quarter-Maſter. </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>In the next place marched His Majeſties Regiment of Foot Guards, commanded by the Right Honorable Colonel <hi>John Ruſſel,</hi> with their Muſquets and Pikes in a Funeral Poſture; the ſeveral Enſigns furled and wrapped in Cypreſs, the Officers having Mourning Scarffs of the ſame, and the Drums being covered with Black Bays, adorned with Eſcucheons of the defunct.</p>
+               <p>Lieut. Colonel <hi>Edward Grey.</hi>
+               </p>
+               <p>Captain <hi>John Downing.</hi>
+               </p>
+               <p>Lieutenant <hi>Edmond Harris.</hi> 
+               </p>
+               <p>1. Diviſion of Muſquettiers.<lb/>S.mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm</p>
+               <p>Lieut. <hi>Robert Wiſeman.</hi>
+                  <lb/>2.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm</p>
+               <p>Lieut. <hi>John Crofts.</hi>
+                  <lb/>3.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>Henry Taylor.</hi>
+                  <lb/>4.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm</p>
+               <pb facs="tcp:60662:4"/>
+               <figure>
+                  <head>A proſpect of the Chamber and Bed of State in which the Effigies of the Duke of Albemarle lay in Somerſet Houſe.</head>
+               </figure>
+               <pb facs="tcp:60662:5" rendition="simple:additions"/>
+               <p>Lieut. <hi>John Price.</hi>
+                  <lb/> 5.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>Thomas Hull.</hi>
+                  <lb/>6.<lb/>S.mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>John Hanbury.</hi>
+                  <lb/>7.<lb/>S.mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>Richard Baſſet.</hi>
+                  <lb/> 8.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>William Bodely.</hi>
+                  <lb/> 9.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>Richard Barber.</hi>
+                  <lb/>10.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Lieut. <hi>William Morris.</hi>
+                  <lb/>11.<lb/>mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>D. D.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Cap. Lieut. <hi>Francis Vincent.</hi>
+                  <lb/> 12.<lb/>S.mmmmmmmmmmS.<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm<lb/>mmmmmmmmmm </p>
+               <p>Capt. Lieutenant <hi>James Read.</hi> 
+               </p>
+               <p>1. Diviſion of Pikes.<lb/>S.ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>2.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>3.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>4.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>5.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>6.<lb/>S.ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>7.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>8.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>9.<lb/>ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>10.<lb/>S.ppppppppS.<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp<lb/>pppppppp</p>
+               <p>Lieut. <hi>Hump. Barrington.</hi>
+               </p>
+               <p>Quarter-Maſter <hi>Thomas Jones.</hi> 
+               </p>
+               <p>DDDDDDD<lb/>DDDDDDD<lb/>Fife. Drum-Major.</p>
+               <p> 
+                  <hi>Agitant</hi> George Gamul.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Payton.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Robert Bringfield.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Anthony S. Leoger.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Thomas Howard.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Richard Langley.</hi>
+                        </cell>
+                        <cell>
+                           <hi>George Traps.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                        <cell>
+                           <hi>E</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Stockman.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Baſil Fielding.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Charles Lloyd.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Arthur Corbet.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Henry Sands.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Herbert Throckmorton.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Edmond Razeby.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>E</hi>
+               </p>
+               <p>
+                  <hi>John Churchill.</hi>
+               </p>
+               <p> 
+                  <hi>Major</hi> Will. Rolleſton.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Walters.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Arthur Broughton.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Thomas Howard.</hi>
+                        </cell>
+                        <cell>
+                           <hi>William Cope.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Philip Howard.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Thomas Daniel.</hi>
+                        </cell>
+                        <cell>Sir <hi>John Talbot.</hi>
+                        </cell>
+                        <cell>Sir <hi>Jona: Atkins.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Samuel Clark</hi>
+                        </cell>
+                        <cell>
+                           <hi>Charles Wheeler.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Colonel <hi>John Ruſſel.</hi>
+               </p>
+               <p>A Led Horſe.</p>
+               <p>And after them, next to the Proceeding the Regiment of <hi>Cole<g ref="char:EOLhyphen"/>ſtreams</hi> (commanded by the Right Honorable <hi>William</hi> Earl of <hi>Craven</hi> (which took this place, by His Majeſties Command, as having been the Generals own Regiment) the Officers having Mourning Scarffs, their Enſigns furled and wrapped in Cypreſs, and their Drums covered with Black Bays, furniſhed with Eſcucheons) marched in a Funeral Poſture as followeth.</p>
+               <pb facs="tcp:60662:6"/>
+               <p>Lieut. <hi>George Laſcels.</hi>
+               </p>
+               <p>1. Diviſion of Muſ<g ref="char:EOLhyphen"/>quettiers.</p>
+               <p>S.mmmmmmS.<lb/>mmmmmm<lb/>D.D.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>2.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>Robert Cooper.</hi> 
+               </p>
+               <p>3.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>4.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>Robert Wych.</hi> 
+               </p>
+               <p>5.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>6.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>Henry Hawley.</hi> 
+               </p>
+               <p>7.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>8.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>Harry Hooker.</hi> 
+               </p>
+               <p>9.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>10.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>Daniel Francis,</hi> 
+               </p>
+               <p>11.
+<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>12.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Sergeant. </p>
+               <p>13.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>14.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>John Tonge.</hi> 
+               </p>
+               <p>15.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>16.<lb/>mmmmmmS.<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm<lb/>mmmmmm</p>
+               <p>Lieut. <hi>John Stringer.</hi>
+               </p>
+               <p>Lieutenant <hi>Charles Waterhouſe.</hi>
+               </p>
+               <p>2. Drums.</p>
+               <p> 1. Diviſion of Pikes.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>2.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>3.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>4.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>5.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>Lieutenant <hi>Daniel Court.</hi> 
+               </p>
+               <p>2. Drums.</p>
+               <p>6.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>7.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>8.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>9.<lb/>ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>10.<lb/>S.ppppppS.<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp<lb/>pppppp</p>
+               <p>Lieutenant <hi>Edward Stewkley.</hi>
+               </p>
+               <p>Drums.<lb/>DDDDDD<lb/>DDDDDD<lb/>DDDDDD</p>
+               <p>Enſigns, <hi>viz.</hi>
+                  <table>
+                     <row>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Troutbeck.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Henry Cope.</hi>
+                        </cell>
+                        <cell>
+                           <hi>David Groſſe</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Street.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                        <cell>11</cell>
+                        <cell>12</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Kirkby.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Nicholas Berty.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Robert Wilkins.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Alban Lovel.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                        <cell>E</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Inglesby Daniel.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Perne.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Miller.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Ralph Butcher.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Captains, <hi>viz.</hi>
+                  <table>
+                     <row>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>CL</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Cook.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Charles Berty</hi> beyond Sea.</cell>
+                        <cell>
+                           <hi>John Huitſon.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Richard Kirkby.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Sanders.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Winter.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Thomas Mansfield.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Peter.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Mutlow.</hi>
+                        </cell>
+                        <cell>
+                           <hi>John Clarke.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Major <hi>John Miller.</hi>
+               </p>
+               <p>
+                  <hi>William</hi> Earl of <hi>Craven,</hi> Colonel.</p>
+               <p>A Led Horſe.</p>
+               <p>Then came the Proceeding, repreſented in Sculpture in the follow<g ref="char:EOLhyphen"/>ing Sheets, beginning with the Conductors, and Poor Men in Gowns, <hi>viz.</hi>
+               </p>
+               <pb facs="tcp:60662:7"/>
+               <figure>
+                  <figDesc>long illustration of funeral procession</figDesc>
+                  <p>
+                     <hi>Servant to the Officers of Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>Conductors Eight in number.</hi>
+                  </p>
+                  <p>
+                     <hi>Poore men in Gownes in number Threeſcore
+<pb facs="tcp:60662:8"/> and fourteene.</hi>
+                  </p>
+                  <p>
+                     <hi>His Grace's Watermen 12.</hi>
+                  </p>
+                  <p>
+                     <hi>Maſter of his Barge.</hi>
+                  </p>
+                  <p>
+                     <hi>Four Drumms and
+<pb facs="tcp:60662:9"/> a Fife.</hi>
+                  </p>
+                  <p>
+                     <hi>The Standard.</hi>
+                  </p>
+                  <p>
+                     <hi>Drumme Major.</hi>
+                  </p>
+                  <p>
+                     <hi>Three Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>The Segar <abbr>Esq</abbr> Blewmantle Purſivant at Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>: Stephen Fox K<hi rend="sup">t</hi>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Jeremie Smith K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>Richard Maſon <abbr>Esq</abbr> his Ma<hi rend="sup">ties</hi>: Avernor.</hi>
+                  </p>
+                  <p>
+                     <hi>The first mourning Horſe caparizoned with black cloath led by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:10"/>
+                  <p>
+                     <hi>Servants to Gentlemen, <abbr>Esq</abbr>, Knights, Knights of the Bath,
+<pb facs="tcp:60662:11"/> and Baronets.</hi>
+                  </p>
+                  <p>
+                     <hi>The Guydon.</hi>
+                  </p>
+                  <p>
+                     <hi>Three Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>: Tho Holford Portcullis Purſivant at Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. John Griffith K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Thomas Morgan K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>Collonell Henry Marckham.</hi>
+                  </p>
+                  <p>
+                     <hi>The Second mourning Horſe led by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:12"/>
+                  <p>
+                     <hi>Servants to Barons yonger ſons, viſc: yonger ſons, Knights privie Councellors, Barons Eldeſt ſons, Earles yonger ſons, viſcounts Eldeſt ſons, Barons, Biſhop Marqueſſes yonger ſons, Earles eldeſt ſons, viſcounts, Dukes yonger ſons, Marqueſſes eldeſt ſons, Earles, Marqueſſes, Dukes, and y<hi rend="sup">e</hi> Lord Archbiſhop of Canterbury</hi>
+                  </p>
+                  <pb facs="tcp:60662:13"/>
+                  <p>
+                     <hi>The Banner of Teyes.</hi>
+                  </p>
+                  <p>
+                     <hi>Esquires.</hi>
+                  </p>
+                  <p>
+                     <hi>Three Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>: Fran: Sandford Rouge Dragon Purſivantat Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Charles Littleton K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>: Peter Killegrew B<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>Major Halſall.</hi>
+                  </p>
+                  <p>
+                     <hi>The Third mourning Horſe led by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:14"/>
+                  <p>
+                     <hi>Servants to his Grace the Defunct.</hi>
+                  </p>
+                  <p>
+                     <hi>Other Gentlemen at Large.</hi>
+                  </p>
+                  <p>
+                     <hi>Doctors of Phiſick Divines
+<pb facs="tcp:60662:15"/> and Chaplaines.</hi>
+                  </p>
+                  <p>
+                     <hi>The Banner of Beauchampe.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Richard Everard K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>. Roberts</hi>
+                  </p>
+                  <p>
+                     <hi>Three Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>. Henry Dethicke Rouge Croix Purſivant at Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Edward Brett K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Francis Vincent B<hi rend="sup">t</hi>:</hi>
+                  </p>
+                  <p>
+                     <hi>Coll: Mouldſworth.</hi>
+                  </p>
+                  <p>
+                     <hi>The fourth mourning Horſe led by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:16"/>
+                  <p>
+                     <hi>The 40. Officers which attended about the Effigies of the defunct at Somerſet Houſe.</hi>
+                  </p>
+                  <p>
+                     <hi>John Browne <abbr>Esq</abbr> Clarke of the Parliament.</hi>
+                  </p>
+                  <p>
+                     <hi>Joſeph Williamſon <abbr>Esq</abbr> Clarke of the Councell.</hi>
+                  </p>
+                  <p>
+                     <hi>Knights.</hi>
+                  </p>
+                  <p>
+                     <hi>Maſters of the
+<pb facs="tcp:60662:17"/> Chancerie.</hi>
+                  </p>
+                  <p>
+                     <hi>The Banner of Monke, Plantagenet, Grey and Talbot.</hi>
+                  </p>
+                  <p>
+                     <hi>Knights of the Bathe. S<hi rend="sup">r</hi>. John Maynard K<hi rend="sup">t</hi>. His Ma<hi rend="sup">ties</hi>: Sergeant.</hi>
+                  </p>
+                  <p>
+                     <hi>Three Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>Rob: Chaloner <abbr>Esq</abbr> Lancaſter Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Walter Vane K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Gilbert Talbot K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>Coll: Roger Whitley.</hi>
+                  </p>
+                  <p>
+                     <hi>The fifth mourning Horſe led by Symon Corbet yeoman of the ſtable, aſsiſted by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:18" rendition="simple:additions"/>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Levline Jenkin K<hi rend="sup">t</hi>. Judge of the Almaralty.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Charles Harbord K<hi rend="sup">t</hi>. <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Generall of his Ma<hi rend="sup">ties</hi>: Revenues.</hi>
+                  </p>
+                  <p>
+                     <hi>Gentlemen of the Priuie Chamber.</hi>
+                  </p>
+                  <p>
+                     <hi>Will: Ashbournham Esq<hi rend="sup">r</hi> Cofferer to his Ma<hi rend="sup">tie</hi>:</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Edmond Windham K<hi rend="sup">t</hi>. K<hi rend="sup">t</hi>. Marſhall.</hi>
+                  </p>
+                  <p>
+                     <hi>Baronets.</hi>
+                  </p>
+                  <p>
+                     <hi>Knights Priuie Councellors.</hi>
+                  </p>
+                  <p>
+                     <hi>Earles yonger ſons.</hi>
+                  </p>
+                  <p>
+                     <hi>The Carpitt &amp; Cuſhon carry'd by Francis Boweman <abbr>Esq</abbr> one of his Ma<hi rend="sup">ties</hi>: Gentlemen Vſhers. Q: W:</hi>
+                  </p>
+                  <pb facs="tcp:60662:19"/>
+                  <p>
+                     <hi>Great Officers to his Grace the Defunct.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Tho: Stringer K<hi rend="sup">t</hi>. Chamberlaine.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>. Lock Steward.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>. Limbrey Treaſurer.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>. Baynes Comptroller.</hi>
+                  </p>
+                  <p>
+                     <hi>Barons.</hi>
+                  </p>
+                  <p>
+                     <hi>Biſhops.</hi>
+                  </p>
+                  <p>
+                     <hi>Earles.</hi>
+                  </p>
+                  <pb facs="tcp:60662:20"/>
+                  <p>
+                     <hi>The Great Banner.</hi>
+                  </p>
+                  <p>
+                     <hi>Four Trumpets.</hi>
+                  </p>
+                  <p>
+                     <hi>Gervase Price <abbr>Esq</abbr> Sergeant Trumpet.</hi>
+                  </p>
+                  <p>
+                     <hi>John Wingfeild <abbr>Esq</abbr> Yorke Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. John Robinſon K<hi rend="sup">t</hi>. and B<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. James Smith K<hi rend="sup">t</hi>. His Grace's Lieut: Coll:</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Thomas Player K<hi rend="sup">t</hi>.</hi>
+                  </p>
+                  <p>
+                     <hi>The chief mourning Horſe caparizoned with black velvet &amp; led by M<hi rend="sup">r</hi>: Richard Mead his Grace's Esquerie aſsiſted by a Groome.</hi>
+                  </p>
+                  <pb facs="tcp:60662:21"/>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>: Thomas S<hi rend="sup">t</hi>: George K<hi rend="sup">t</hi>. Somerſet Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>Thomas Lee <abbr>Esq</abbr> Cheſter Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>Henry S<hi rend="sup">t</hi>: George <abbr>Esq</abbr> Richmond Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>Elias Ashmole <abbr>Esq</abbr> Windſor Herald.</hi>
+                  </p>
+                  <p>
+                     <hi>William Dugdale <abbr>Esq</abbr> Norroy King of Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Edward Bysshe K<hi rend="sup">t</hi>. Clarenceaux King of Armes.</hi>
+                  </p>
+                  <p>
+                     <hi>S<hi rend="sup">r</hi>. Edward Carteret K<hi rend="sup">t</hi>. one of his Ma<hi rend="sup">ties</hi>: Gentlemen Vshers.</hi>
+                  </p>
+                  <pb facs="tcp:60662:22"/>
+                  <p>
+                     <list>
+                        <head>Names of the Bannerolls.</head>
+                        <item>
+                           <hi>K. Monck and Champernon.</hi>
+                        </item>
+                        <item>
+                           <hi>L. Monck and Grant.</hi>
+                        </item>
+                        <item>
+                           <hi>M. Monck and Craherne.</hi>
+                        </item>
+                        <item>
+                           <hi>N. Monck and Hill.</hi>
+                        </item>
+                        <item>
+                           <hi>O. Monck and Trenchard.</hi>
+                           <list>
+                              <head>Carried by</head>
+                              <item>
+                                 <hi>Hugh Stukeley Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Pollard Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Benton Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Hooper Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>Charles Modyford Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <head>Names of the Bannerolls.</head>
+                        <item>
+                           <hi>E. Monck and Clarges.</hi>
+                        </item>
+                        <item>
+                           <hi>F. Monck and Smith.</hi>
+                        </item>
+                        <item>
+                           <hi>G. Monck and Arscot.</hi>
+                        </item>
+                        <item>
+                           <hi>H. Monck and Plantagenet.</hi>
+                        </item>
+                        <item>
+                           <hi>I. Monck and Wood.</hi>
+                           <list>
+                              <head>Carried by</head>
+                              <item>
+                                 <hi>Walter Clarges Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>S<hi rend="sup">r</hi>: Thomas Higgons K<hi rend="sup">t</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>Peter Prideaux Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Towell Esq<hi rend="sup">r</hi>.</hi>
+                              </item>
+                              <item>
+                                 <hi>S<hi rend="sup">r</hi>: Peter Colleton K<hi rend="sup">t</hi>.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <pb facs="tcp:60662:23"/>
+                        <head>Supporters of the Pall.</head>
+                        <item>
+                           <hi>A. The Lo: Neuport.</hi>
+                        </item>
+                        <item>
+                           <hi>B. The Lo: Gerard.</hi>
+                        </item>
+                        <item>
+                           <hi>C. The Lo: Aſhley.</hi>
+                        </item>
+                        <item>
+                           <hi>D. M<hi rend="sup">r</hi>: Treaſurer of his Ma<hi rend="sup">ties</hi>: Houſhold.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>: Neue.</hi>
+                  </p>
+                  <p>
+                     <hi>M<hi rend="sup">r</hi>: Egerton.</hi>
+                  </p>
+                  <pb facs="tcp:60662:24"/>
+                  <p>
+                     <hi>The ten Lords, Aſsistants to the chief Mourner.</hi>
+                  </p>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>S<hi rend="sup">r</hi>. Edward Walker K<hi rend="sup">t</hi>. Garter. Principal King of Armes.</hi>
+                        </item>
+                        <item>
+                           <hi>S<hi rend="sup">r</hi>. John Ayton K<hi rend="sup">t</hi>. Vsher of the Black Rod.</hi>
+                        </item>
+                        <item>
+                           <hi>The Duke of Rich: :mond ſupporter to the Chief mourner</hi>
+                        </item>
+                        <item>
+                           <hi>The Duke of Albemarle Chief mourner</hi>
+                        </item>
+                        <item>
+                           <hi>The Duke of Ormond Lo: Steward-ſupporter to y<hi rend="sup">e</hi>. Chief mourner</hi>
+                        </item>
+                        <item>
+                           <hi>S<hi rend="sup">r</hi>. Francis Leake B<hi rend="sup">t</hi>.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Mancheſter Lord Chamberlaine.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Suffolke.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Bridgewater.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Mulgraue.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Peterborrow.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of S<hi rend="sup">t</hi>. Albans.</hi>
+                        </item>
+                        <pb facs="tcp:60662:25"/>
+                        <item>
+                           <hi>The Earle of Sandwich.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Bathe.</hi>
+                        </item>
+                        <item>
+                           <hi>The Earle of Carliſle.</hi>
+                        </item>
+                        <item>
+                           <hi>The Lord Arlington.</hi>
+                        </item>
+                        <item>
+                           <hi>Bernard Grenvile <abbr>Esq</abbr> Maſter of the Horſe to the Defunct.</hi>
+                        </item>
+                        <item>
+                           <hi>The Horse of Honour richly caparizon'd with crimſon veluet, embroydered and emboſsed with Gold and Silver.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </figure>
+               <pb facs="tcp:60662:26"/>
+               <p>Next after the Horſe of Honor, or State, Her Majeſties Troop of Guards, commanded by Sir <hi>Philip Howard</hi> Knight, (Brother to the Right Honorable the Earl of <hi>Carliſle</hi>) cloſed the Rear of the Proceeding, which had this place by particular order, as having been his Grace the Defuncts own Troop of Guards, and marched in the Form following, <hi>viz.</hi>
+               </p>
+               <p>Three Led Horſes.</p>
+               <p>The Kettle Drum.</p>
+               <p>Four Trumpets.</p>
+               <p>Sir <hi>Philip Howard</hi> Knight, Captain.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Lieutenant <hi>Daniel Collingwood.</hi>
+                        </cell>
+                        <cell>Cornet <hi>Francis Watſon.</hi>
+                        </cell>
+                        <cell>Lieutenant <hi>Henry Monck.</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell>Sir <hi>Edward Fiſh</hi> Baronet, Corporal. 1 Squadron.
+<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                        <cell>Capt. <hi>Mark Robinſon,</hi> Corporal. 3 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Edward Watſon,</hi> Corporal. Cornet. 2 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH </cell>
+                        <cell>
+                           <hi>George Collingwood,</hi> Corporal. 4 Squadron.<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>HHHHHHHH<lb/>Capt. <hi>Will. Upcot,</hi> Quarter-Maſter.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>IN the Order aforeſaid, the Solemnity proceeded to the Weſt Door of <hi>Weſtminſter</hi> Abbey, where the Conductors and Poor-men in Gowns opened to the Right and Left, and made way for the Proceeding to paſs between them; ſo that the firſt that entred the Abbey, were Servants to the Gentry and Nobility; who alſo opening to the Right and Left, made a Guard betwixt the Chore and the Weſt Door of the Abbey; without which, the Effigies was taken out of the Chariot, and placed upon a Beer, which being carried within the Abbey Door by Mr. <hi>Maſon,</hi> Colo<g ref="char:EOLhyphen"/>nel <hi>Markham,</hi> Major <hi>Halſall,</hi> Colonel <hi>Molſworth,</hi> Colonel <hi>Whitley,</hi> and Sir <hi>Thomas Player</hi> Knight, (who aſſiſted on the Left-hand of the Perſons who bore the Standard, Guydon, Three Banners, and Great Banner, in the Proceeding) with the help of ſome that belonged to the Abbey (by reaſon of the weight of it) was there received under a Canopy of Black Velvet, with a deep Silk-fringe, and lined with Black Taffata; and thence carried to the Herſe, and placed therein.</p>
+               <p>The Supporters or Bearers of the Canopy, were Sir <hi>Stephen Fox</hi> Kt, Sir <hi>Charles Littleton</hi> Kt, Sir <hi>Walter Vane</hi> Kt, Sir <hi>John Griffith</hi> Kt, Sir <hi>Edward Brett</hi> Kt, and Sir <hi>John Robinſon</hi> Knight and Baronet (the other Six Aſſiſtants in the Proceeding, on the Right Hands of thoſe that car<g ref="char:EOLhyphen"/>ried the aforeſaid Standard, Guydon, Three Banners, and Great Banner.)</p>
+               <p>At the entrance into the Abbey, the Dean and Prebends in their Copes; and the Quire in their Surplices, attended and proceeded be<g ref="char:EOLhyphen"/>tween the Great Banner, and the Officers of Arms that carried the Trophies.</p>
+               <p>When they came to the Herſe, none were permitted to enter within the outward Rail, but the Perſons following.</p>
+               <list>
+                  <item>Firſt, Mr. <hi>Thomas Segar</hi> Blewmantle, Purſivant at Arms.</item>
+                  <item>Sir <hi>Jeremy Smith,</hi> with the Standard.</item>
+                  <item>Mr. <hi>Thomas Holford</hi> Portcullis, Purſivant.</item>
+                  <item>Sir <hi>Thomas Morgan,</hi> with the Guydon.</item>
+                  <item>Mr. <hi>Francis Sandford</hi> Rouge-Dragon, Purſivant.</item>
+                  <item>Sir <hi>Peter Killegrew,</hi> with the Banner of <hi>Teyes.</hi>
+                  </item>
+                  <item>Mr. <hi>Henry Dethick</hi> Rouge-Croix, Purſivant.</item>
+                  <item>Sir <hi>Francis Vincent,</hi> with the Banner of <hi>Beauchampe.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Chaloner Lancaſter</hi> Herald.</item>
+                  <item>Sir <hi>Gilbert Talbot,</hi> with the Banner of <hi>Monk, Plantagenet, Grey,</hi> and <hi>Talbot.</hi>
+                  </item>
+                  <item>Mr. <hi>Bowman,</hi> with the Carpet and Cuſhion.</item>
+                  <item>The Defuncts, Four Officers with white Staves.</item>
+                  <item>Mr. <hi>John Wingfield Yorke,</hi> Herald.</item>
+                  <item>Sir <hi>James Smith,</hi> with the Great Banner.</item>
+                  <item>Sir <hi>Thomas St. George Somerſet</hi> Herald, bearing the Spurs.</item>
+                  <item>Mr. <hi>Thomas Lee Cheſter</hi> Herald, with the Gantlets.</item>
+                  <item>Mr. <hi>Henry St. George Richmond</hi> Herald, with the Helm and Creſt.</item>
+                  <item>Mr. <hi>Elias Aſhmole Windſor</hi> Herald, with the Target.</item>
+                  <item>Mr. <hi>William Dugdale</hi> Norroy King of Arms, with the Sword.</item>
+                  <item>Sir <hi>Edward Byſſhe Clarenceaux,</hi> King of Arms, with the Coat of Arms.</item>
+                  <item>Sir <hi>Edward Carteret,</hi> His Majeſties Gentleman Uſher.</item>
+               </list>
+               <p>Then follow<g ref="char:EOLhyphen"/>ed the Ten Ban<g ref="char:EOLhyphen"/>nerols bourn by
+<list>
+                     <item>Mr. <hi>Modyford.</hi>
+                     </item>
+                     <item>Mr. <hi>Bruton.</hi>
+                     </item>
+                     <item>Mr. <hi>Stukley.</hi>
+                     </item>
+                     <item>Mr. <hi>Fowel.</hi>
+                     </item>
+                     <item>Sir <hi>Thomas Higgons.</hi>
+                     </item>
+                     <item>Mr. <hi>Hooper.</hi>
+                     </item>
+                     <item>Mr. <hi>Pollard.</hi>
+                     </item>
+                     <item>Sir <hi>Peter Colleton.</hi>
+                     </item>
+                     <item>Mr. <hi>Prideaux.</hi>
+                     </item>
+                     <item>Mr. <hi>Clarges.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Sir <hi>Edward Walker,</hi> Principal King of Arms, and Sir <hi>John Ayton,</hi> Uſher of the Black Rod.</p>
+               <p>Theſe were all placed within the outward Rail.</p>
+               <p>Then the Cheif Mourner, the preſent Duke of <hi>Albemarle,</hi> entred the inward Rail, and was placed at the Head, in a Great Chair of Black Velvet with Arms.</p>
+               <p>After him entred his Two Supporters, the Dukes of <hi>Richmond</hi> and <hi>Ormond,</hi> and ſate on each ſide of him, upon Stools covered with Black Velvet.</p>
+               <p>And after them his Ten Aſſiſtants, <hi>viz.</hi> The Lord Chamberlain, the Earls of <hi>Suffolk, Bridgwater, Mulgrave, Peterborough, S. Albans, Sandwich, Bath,</hi> and <hi>Carliſle,</hi> and the Lord <hi>Arlington,</hi> who ſate on either ſide, on the like Stools.</p>
+               <p>The laſt that entred, were the Lords <hi>Newport, Gerard</hi> of <hi>Brandon,</hi> and <hi>Aſhley,</hi> and Sir <hi>Thomas Clifford,</hi> Treaſurer of His Majeſties Houſhold, the Four Supporters of the Pall, who were ſeated at the Corners thereof on Stools covered with Black Velvet, within the Herſe where the Effigies was placed.</p>
+               <p>Being all ſeated in the order aforeſaid, The Dean of <hi>Weſtminſter</hi> read the Service appointed by the <hi>Lyturgy,</hi> and that being done, Doctor <hi>Ward,</hi> Biſhop of <hi>Salisbury,</hi> Preached the Funeral Sermon: After which, the Dean and ſome of the Prebends (in their Copes) went up to the Altar, and there ſtaid for the Offering.</p>
+            </div>
+            <div type="part">
+               <head>The Form of the Offerings,</head>
+               <p>Firſt, Mr. <hi>Bowman</hi> went up to the Altar, and ſpred the Carpet, and laid the Cuſhion at the Foot of the Altar. Which being done, Mr. <hi>Garter</hi> repaired to the Cheif Mourner, and attended His Grace to the Offering.</p>
+               <p>The Four Officers with their white Staves went firſt, then followed Mr. <hi>Garter,</hi> and a Gentleman Uſher; after them, the Cheif Mourner between his Two Supporters, his Train bourn up by Sir <hi>Francis Leak,</hi> followed by his Ten Aſſiſtants, where he offered upon his Knee, and then returned in the ſame manner.</p>
+               <p>Then Mr. <hi>Bowman</hi> rouled up the Carpet, and laid it under the Cuſhion; Mr. <hi>Garter,</hi> and the Gentleman Uſher did again conduct the Cheif Mourner to the Altar alone, His Train not bourn, where he did offer for Himſelf; and there ſtood by the Dean, at the North end of the Altar, to receive the Atchievements, Mr. <hi>Garter</hi> attending him.</p>
+               <p>In the next place Mr. <hi>Clarenceaux</hi> preceded the Dukes of <hi>Richmond</hi> and <hi>Ormond,</hi> and delivered them the Coat of Arms; who being come to the Altar, offered it, and it was received by the Dean, who preſented it to the Cheif Mourner, and he delivered it to Mr. <hi>Garter,</hi> who laid it upon the Altar; and then Mr. <hi>Clarenceaux</hi> returned with them to their Seats.</p>
+               <pb facs="tcp:60662:27"/>
+               <p>In the ſame manner, Mr. <hi>Norroy</hi> brought up the Lord Chamberlain, and the Earl of <hi>Suffolk,</hi> who in like form offered the Sword, carrying the Point upward.</p>
+               <p>Mr. <hi>Windſor,</hi> the Earls of <hi>Bridgwater</hi> and <hi>Mulgrave,</hi> who offered the Target in like manner.</p>
+               <p>Mr. <hi>Richmond,</hi> the Earls of <hi>Peterborough</hi> and <hi>S. Albans,</hi> who offered the Helm and Creſt.</p>
+               <p>Mr. <hi>Cheſter,</hi> the Earls of <hi>Sandwich</hi> and <hi>Bathe,</hi> who offered the Gantlets.</p>
+               <p>Mr. <hi>Somerſet,</hi> the Earl of <hi>Carliſle,</hi> and the Lord <hi>Arlington,</hi> who offered the Spurs.</p>
+               <p>In the next place, the Great Banner half rouled up by Mr. <hi>York,</hi> was offered by Sir <hi>James Smith</hi> in like manner.</p>
+               <p>Mr. <hi>Lancaſter</hi> likewiſe with Sir <hi>Gilbert Talbot,</hi> who offered the Banner of <hi>Monck, Plantagenet, Grey,</hi> and <hi>Talbot.</hi>
+               </p>
+               <p>Mr. <hi>Rouge-Croix</hi> with Sir <hi>Francis Vincent,</hi> with the Banner of <hi>Beauchamp.</hi>
+               </p>
+               <p>Mr. <hi>Rouge-Dragon</hi> with Sir <hi>Peter Killegrew,</hi> with the Banner of <hi>Teyes.</hi>
+               </p>
+               <p>Mr. <hi>Portcullis</hi> with Sir <hi>Thomas Morgan,</hi> with the Guydon.</p>
+               <p>Mr. <hi>Blewmantle</hi> with Sir <hi>Jeremy Smith,</hi> with the Standard.</p>
+               <p>The Ten Bannerols were offered by Pairs, by thoſe that carried them (beginning with the two next to the Head of the Effigies) a Purſi<g ref="char:EOLhyphen"/>vant at Arms going before every two of them.</p>
+               <p>The Trophies being thus offered, the Cheif Mourner returned to his Chair, attended by Mr. <hi>Garter</hi> and the Gentleman Uſher.</p>
+               <p>Then Mr. <hi>Garter</hi> conveyed up to the Altar, the Two Supporters to the Cheif Mourner, who offered for themſelves on their Knees, and then returned to their Seats.</p>
+               <p>Mr. <hi>Clarenceaux</hi> attended the two firſt Aſſiſtants, who did alſo offer in like manner for themſelves, and ſo returned.</p>
+               <p>The two next did the like, attended by Mr. <hi>Norroy.</hi>
+               </p>
+               <p>The two next attended by Mr. <hi>Windſor.</hi>
+               </p>
+               <p>The two next attended by Mr. <hi>Richmond.</hi>
+               </p>
+               <p>And the two next attended by Mr. <hi>Cheſter.</hi>
+               </p>
+               <p>Then Mr. <hi>Somerſet</hi> did go to the Lords, <hi>Newport</hi> and <hi>Gerard,</hi> Two Supporters of the Pall, and attended them to the Offering in like manner.</p>
+               <p>And Mr. <hi>York</hi> attended the Lord <hi>Aſhley,</hi> and Mr. Treaſurer of the Houſhold, the other Two Supporters of the Pall.</p>
+               <p>Theſe being all returned to their Seats, Mr. <hi>Garter</hi> ſtanding on the uppermoſt Step, going to the Altar, turned his Face towards the Herſe, and proclaimed the Defuncts ſtile as followeth.</p>
+               <q>THus it hath pleaſed Almighty God, to take out of this Tranſitory Life, unto His Mercy, The Moſt High, Mighty, and Moſt Noble Prince <hi>GEORGE,</hi> late Duke of <hi>Albemarle,</hi> Earl of <hi>Torrington,</hi> Baron <hi>Monck</hi> of <hi>Potheridge, Beauchamp,</hi> and <hi>Teyes.</hi> Captain General of His Majeſties Forces, Gentleman of His Majeſties Bedchamber, One of the Lords of His Majeſties Moſt Honorable Privy Council, and Knight of the Moſt Noble Order of the Garter.</q>
+               <p>This being Proclaimed, the Chamberlain, Steward, Treaſurer, and Comptroller to the Defunct, brake their white Staves at the Head of the Effigies.</p>
+               <p>And then His Majeſties Sergeant-Trumpet giving a ſign to the Trumpets, that were placed over the Door going into the Quire, they immediately Sounded, and the Volleys of Shot, both of Horſe and Foot, were preſently diſcharged.</p>
+            </div>
+            <div type="part">
+               <head>A Deſcription of the Herſe ſet up in the Abbey of <hi>Westminster.</hi>
+               </head>
+               <p>IN the midſt of the Croſs of the Abbey (which is betwixt the Quire, and the Steps going up to the Altar) was erected a Ducal-Herſe; the proſpect of which, with the manner of the Effigies lying in State there, the Poſition of the Great Banner, the Three leſſer Banners, Guy<g ref="char:EOLhyphen"/>don, Standard, and the Ten Bannerols, with the ſeveral Trophies upon the Table at the Feet of the Effigies, I have exhibited in the next folio.</p>
+               <p>The length of the Herſe was Fourteen Foot, the bredth Eleven Foot, and the Rail Four Foot and a half high, the Hautepaſs, upon which the Table ſtood, raiſing the Floor about Six Inches from the Pavement. The Four great Pillars were Eight ſquare, and near Twenty Foot high, and upon their Capitals were placed the Creſts and Supporters of the Duke. Theſe Pillars had two Courſes of Rails near the tops, un<g ref="char:EOLhyphen"/>to which, both the Valence and the Teſter were faſtned; and unto this alſo, by ſeveral Coſts of Timber, the <hi>Cupulo</hi> was fixed; the point of which finiſhed in a Ducal Coronet, Two Foot in Diameter, exalted Thirty Foot from the Pavement. The whole Herſe was cloathed on the outſide with Black Velvet, Garniſhed with ſeveral Compartments Em<g ref="char:EOLhyphen"/>boſſed of the Dukes Arms, and Embelliſhed with Creſts, Coronets, and Scrouls with his two Motto's, <hi>viz.</hi>
+                  <q>Fortiter, Fideliter, Foeliciter,</q> And
+<q>Cunctando Reſtituit.</q>
+               </p>
+               <p>It was double Valanced and Fringed, the Inner Valence and Teſter being of Black Taffata, adorned with Eſcucheons of the ſame, and a Majeſty Eſcucheon within the Teſter. There were placed within the Corners of the Herſe, alſo Four Stools of Black Velvet for the Suppor<g ref="char:EOLhyphen"/>ters of the Pall, and it was Floored with Black Cloath.</p>
+               <p>The Rail next to the Herſe, was Twenty three Foot long, Twenty Foot and a half broad, and Three Foot and a half high: This Rail was covered with Black Cloath, and Floored with Bays, and within it ſate the Cheif Mourner on a Chair with Arms of Black Velvet, and his Two Supporters and Ten Aſſiſtants on Stools of the ſame; and alſo to the inſide thereof Sockets were fixed, to receive the Staves of the Standard, Guydon, Three Banners, the Great Banner, and the Ten Bannerols.</p>
+               <p>The outermoſt Rail was covered with Black Bays, being Thirty Foot long, Twenty ſeven Foot and a half in bredth, and Three Foot high; within which ſeveral Forms were placed, covered alſo with Bays, and upon them ſate all the Carriers of the Trophies, the Officers of Arms, the Defuncts Four Officers with White Staves, and ſeveral other perſons concerned.</p>
+               <p>There were Paſſages alſo of Four Foot wide, on the Eaſt and Weſt ſide of the Rails, and the Herſe; which were opened to lett in the re<g ref="char:EOLhyphen"/>ſpective Perſons, and to give them paſſage to the Offering.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:60662:28"/>
+            <p>
+               <figure>
+                  <head>A Proſpect of the Hearſe in which the Effigies of the Duke of Albemarle lay in State in the Abbey of Weſtminſter.</head>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
